@@ -4,7 +4,7 @@
 
 const hyougenData = [
   {
-    "tag": "JFT ekspresi 6",
+    "tag": "表現",
     "prompt": "A：お金を入れたのに、きっぷが出ません。<br>B：（　　）、すぐ調べます。",
     "choices": [
       "すみません",
@@ -16,7 +16,7 @@ const hyougenData = [
     "explain": "お客に迷惑をかけたとき、お店や係の人は「すみません」と謝ってから対応します。"
   },
   {
-    "tag": "JFT ekspresi 6",
+    "tag": "表現",
     "prompt": "A：週末、映画を見に行きませんか。<br>B：（　　）、行きましょう。",
     "choices": [
       "いいえ",
@@ -28,7 +28,7 @@ const hyougenData = [
     "explain": "誘いを受け入れるときは「ええ、行きましょう」のように肯定の返事をします。"
   },
   {
-    "tag": "JFT ekspresi 6",
+    "tag": "表現",
     "prompt": "A：明日試験があるんです。<br>B：（　　）。",
     "choices": [
       "楽しみにしてください",
@@ -40,7 +40,7 @@ const hyougenData = [
     "explain": "試験を控えている人を励ますときは「頑張ってください」と言います。"
   },
   {
-    "tag": "JFT ekspresi 6",
+    "tag": "表現",
     "prompt": "A：もう両親に話したの？<br>B：（　　）。明日話そうと思う。",
     "choices": [
       "うん、話した",
@@ -52,7 +52,7 @@ const hyougenData = [
     "explain": "まだ話していないことを伝えるときは「ううん、まだ」と否定＋未完了を表します。"
   },
   {
-    "tag": "JFT ekspresi 6",
+    "tag": "表現",
     "prompt": "A：私の町はずっと暑いです。<br>B：（　　）。それは大変ですね。",
     "choices": [
       "そうです",
@@ -64,7 +64,7 @@ const hyougenData = [
     "explain": "初めて聞いた情報に反応するときは「そうなんですか」を使います。"
   },
   {
-    "tag": "JFT ekspresi 6",
+    "tag": "表現",
     "prompt": "A：山登りに行くよていなんだけど、一緒に行かない？<br>B：うちで本を読むつもりだったけど、（　　）。",
     "choices": [
       "そうでしょうね",
@@ -76,7 +76,7 @@ const hyougenData = [
     "explain": "誘われて気持ちが変わり、参加を検討するときは「そうしようかな」を使います。"
   },
   {
-    "tag": "JFT ekspresi 6",
+    "tag": "表現",
     "prompt": "A：今日は私の誕生日です。<br>B：（　　）。",
     "choices": [
       "頑張ってください",
@@ -88,7 +88,7 @@ const hyougenData = [
     "explain": "誕生日だと聞いたら「おめでとうございます」とお祝いの言葉を言います。"
   },
   {
-    "tag": "JFT ekspresi 6",
+    "tag": "表現",
     "prompt": "A：漢字が上手ですね。<br>B：いいえ、（　　）。",
     "choices": [
       "上手です",
@@ -100,7 +100,7 @@ const hyougenData = [
     "explain": "褒められたとき謙遜して答えるときは「そんなことないです」を使います。"
   },
   {
-    "tag": "JFT ekspresi 6",
+    "tag": "表現",
     "prompt": "A：日本語能力試験をしっていますか。<br>B：（　　）。今度受けてみようと思います。",
     "choices": [
       "ええ、知っています",
@@ -112,7 +112,7 @@ const hyougenData = [
     "explain": "知っていることを伝えるときは「ええ、知っています」と肯定で答えます。"
   },
   {
-    "tag": "JFT ekspresi 6",
+    "tag": "表現",
     "prompt": "A：帰るとき、窓を閉めてください。<br>B：（　　）。",
     "choices": [
       "そうですね",
